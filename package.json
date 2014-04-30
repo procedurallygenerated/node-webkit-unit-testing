@@ -1,0 +1,12 @@
+{
+  "name": "NodeWebkitTestSkeleton",
+  "version": "0.0.1",
+  "main": "index.html",
+  "description": "App Tests",
+  "dependencies": {
+    "mocha": "1.14.0"
+  },
+  "window": {
+    "toolbar": true
+  }
+}
